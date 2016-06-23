@@ -12,7 +12,7 @@ Please make sure your computers that you want ot backup keys from have at least 
 
 To be able to retrive keys from ADUC computer objects please make sure to follow the below to install the needed features in to RSAT
 
-[RSAT Bitlocker](;http://www.alexandreviot.net/2015/06/10/active-directory-how-to-display-bitlocker-recovery-key/)
+[RSAT Bitlocker](http://www.alexandreviot.net/2015/06/10/active-directory-how-to-display-bitlocker-recovery-key/)
 
 ## Running the script
 
